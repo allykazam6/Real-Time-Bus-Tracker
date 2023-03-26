@@ -1,4 +1,4 @@
-# Real-Time-Bus-Tracker
+# Real Time Bus Tracker
 
 ### Description ###
 I used bus data from the Massachusetts Bay area to determine stops between Harvard and MIT, and I added an animated marker on the map to highlight the bus routes.
