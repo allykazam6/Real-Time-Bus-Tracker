@@ -3,7 +3,7 @@
 ### Description ###
 I used bus data from the Massachusetts Bay area to determine stops between Harvard and MIT, and I added an animated marker on the map to highlight the bus routes.
 
-### How to Run: ###
+### How to run: ###
 Click the button and watch the marker move!
 
 ### Languages used: ###
