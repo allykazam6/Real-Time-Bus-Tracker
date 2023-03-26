@@ -1,5 +1,6 @@
 # Real-Time-Bus-Tracker
-<h1>Boston Bus Tracker: MIT to Harvard</h1>
+
+<h1>Bus Tracker</h1>
 
 
 <h2>Description</h2>
